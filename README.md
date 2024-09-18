@@ -1,6 +1,6 @@
 # MPGS Integration Guide
 
-Official Mastercard Payment Gateway Service (MPGS) documentation: SAGAR AGARWAL
+Official Mastercard Payment Gateway Service (MPGS) documentation:
 
 https://ap-gateway.mastercard.com/api/documentation/integrationGuidelines/index.html?locale=en_US
 
